@@ -8,7 +8,7 @@
           "version": "0.0.1",
           "date": "2020-04-07T23:16:03.536Z",
           "requires": "orca>=0.0.0,deck>=0.0.0",
-          "sha512sum": "5c7b4e387a294514a0f54e13e883f3af2fe85dacb0ffd92bc67f8c14f9ad0efaf1efd602cbf61a29f43280f7591e57f74bf23a8a6b4d767b6797cd00a9a816da",
+          "sha512sum": "356973a65364862cea056e63f26e9dccde8f39add5a536289b9291bd53d4e4214dd2553ca0b5aec817f2757d48679b55c777e51a2ac4da5ecc8e55b62b69080a",
           "state": "RELEASE",
           "url": "https://github.com/spinnaker-hackathon/pulumi-plugin/releases/download/0.0.1/pulumi-orca-0a4d494.dirty-SNAPSHOT.jar.zip"
         }
